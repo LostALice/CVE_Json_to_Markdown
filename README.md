@@ -19,7 +19,7 @@ This repository provides a Python script that converts CVE JSON files into struc
 .
 ├── json/            # Input folder containing CVE JSON files
 ├── markdown/        # Output folder for converted Markdown files
-├── convert.py       # Conversion script
+├── main.py       # Conversion script
 └── README.md        # This file
 ```
 
